@@ -1,0 +1,1 @@
+Awal2 ini terminal github ku bermasalah pada autentifikasi, sebelumnya proyek halaman "Onboarding Page" ini sudah dikirim langsung ke tim MD melalui media WA. Git ini dibuat untuk bukti logbook capstone project.
