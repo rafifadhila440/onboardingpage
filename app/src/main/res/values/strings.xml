@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OnBoardingPage</string>
+    <string name="title_menu_1">Mushrooms, a source of health and deliciousness in every bite.</string>
+    <string name="title_menu_2">Explore</string>
+    <string name="title_menu_3">Scan Feature</string>
+    <string name="title_menu_4">Recipe</string>
+    <string name="desc_menu_1">Mushrooms are a natural food that is rich in nutrients and provides various benefits for our health.</string>
+    <string name="desc_menu_2">Exploring types of mushroom.</string>
+    <string name="desc_menu_3">Scan mushroom types by taking a new photo or using an existing photo.</string>
+    <string name="desc_menu_4">Various recipes for edible mushrooms.</string>
+    <string name="lets_start">Lets Start</string>
+</resources>
